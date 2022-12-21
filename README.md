@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Fake news detection using machine learning<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Java, Vanilla JavaScript and UI/UX<br>⚡ Fun fact: I wanted to become a scientist.
+🔭 I’m currently working on MERN Project<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Java, Vanilla JavaScript and UI/UX<br>⚡ Fun fact: I wanted to become a scientist.
 
 
 ## 🌐 Socials:

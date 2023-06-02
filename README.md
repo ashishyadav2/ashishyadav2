@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Image Steganography<br>🌱 I’m currently learning Python<br>💬 Ask me about Java, Vanilla JavaScript and UI/UX<br>⚡ Fun fact: I wanted to become a scientist.
+🔭 I’m currently working on Nothing!<br>🌱 I’m currently learning Statistics<br>💬 Ask me about Python, Data Structures, Algorithms and UI/UX<br>⚡ Fun fact: I wanted to become a scientist.
 
 
 ## 🌐 Socials:

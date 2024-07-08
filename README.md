@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Image Caption Generator using CNN<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about Python, Data Structures, Algorithms and UI/UX<br>⚡ Fun fact: I wanted to become a scientist.
+🔭 I’m currently working on Data Science<br>🌱 I’m currently learning Data Science<br>💬 Ask me about Python, Data Structures, Algorithms<br>⚡ Fun fact: I wanted to become a scientist.
 
 
 ## 🌐 Socials:
